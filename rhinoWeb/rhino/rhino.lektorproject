@@ -1,0 +1,17 @@
+[project]
+name = Marcin
+
+[alternatives.de]
+name= Deutsch
+primary = yes
+locale= de_De
+
+[alternatives.en]
+name=English
+url_prefix =/en/
+locale = en
+
+[alternatives.pl]
+name = polski
+url_prefix =/pl/
+locale = pl

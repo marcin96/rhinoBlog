@@ -1,0 +1,48 @@
+{
+	"de" : [
+		{
+			"Name":"ICT-Accessibility Lab bei der Delegation nach Japan und Korea",
+			"Link":"/Alle Mitteilungen/#aktuell_009",
+			"Place":"Switzerland",
+			"Datum":"03.11.2016",
+			"Text":"Besuch der Delegation aus verschiedenen Schweizer Fachhochschulen"
+		},
+				{
+			"Name":"Broschüre 'Altersgerechte mobile Applikationen' veröffentlicht",
+			"Link":"/Alle Mitteilungen/#aktuell_008",
+			"Place":"Switzerland",
+			"Datum":"25.08.2016",
+			"Text":"Grundlagen und Empfehlungen zum Thema 'Altersgerechte mobile Applikationen' für Auftraggeber und Entwickler in einer Broschüre zusammengefasst"
+		},
+				{
+			"Name":"E-Accessibility Forum als Gesprächsthema bei Compasso Schweiz",
+			"Link":"/Alle Mitteilungen/#aktuell_007",
+			"Place":"Switzerland",
+			"Datum":"05.08.2016",
+			"Text":"Lesen Sie das Interview zum ersten Swiss E-Accessibility Forum zwischen dem Forumsgründer A. Darvishy und Compasso Schweiz."
+		}
+	],
+	"en" : [
+		{
+			"Name":"ICT-Accessibility Lab as part of the delegation to Japan and Korea",
+			"Link":"/en/Alle Mitteilungen/#aktuell_009",
+			"Place":"Switzerland",
+			"Datum":"November 3, 2016",
+			"Text":"Visit of a delegation consisting of several Swiss Universities of Applied Sciences"
+		},
+		{
+			"Name":"Broschüre 'Altersgerechte mobile Applikationen' veröffentlicht",
+			"Link":"/en/Alle Mitteilungen/#aktuell_008",
+			"Place":"Switzerland",
+			"Datum":"August 25, 2016",
+			"Text":"(Only German)Grundlagen und Empfehlungen zum Thema 'Altersgerechte mobile Applikationen' für Auftraggeber und Entwickler in einer Broschüre zusammengefasst"
+		},
+		{
+			"Name":"E-Accessibility Forum as topic at Compasso Switzerland",
+			"Link":"/en/Alle Mitteilungen/#aktuell_007",
+			"Place":"Switzerland",
+			"Datum":"05.08.2016",
+			"Text":"Read the interview about the first Swiss E-Accessibility Forum between the forum's founder A. Darvishy and Compasso Switzerland."
+		}
+	] 
+}
